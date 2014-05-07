@@ -1,0 +1,77 @@
+body{
+	background-image: url("Fondo.png");
+	background-size:cover;
+}
+.nav{
+	background-color:#6699cc;
+}
+
+.navbar-collapse{
+	background-color:#6699cc;
+	color:#FFFFFF;
+}
+.navbar-brand{
+	background-color: #6699cc;
+	color: #FFFFFF;
+}
+.navbar-toggle{
+	background-color: #6699cc;
+	color:#FFFFFF;
+}
+
+.navbar-header{
+	background-color: #6699cc;
+	color:#FFFFFF;
+}
+
+.container-fluid{
+	background-color:#6699cc;
+	color:#FFFFFF;
+}
+a{
+	color:#FFFFFF;
+}
+ul{
+	background-color:#FFFFFF;
+}
+.header{
+	padding:3%;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	color:#FFFFFF;
+}
+#post{
+	background-color:#6699cc;
+	border-style:solid;
+	border-color:white;
+	}
+#main{
+	background-color: #6699cc;
+}
+h2{
+	text-align: center;
+	
+}
+p{
+	text-align:justify;
+}
+#cont{
+	text-align: center;
+}
+
+
+
+.erb-image-wrapper{
+    max-width:90%;
+    height:auto;
+    position: relative;
+    display:block;
+    margin:0 auto;
+}
+.erb-image-wrapper img{
+    width:100% !important;
+    height:100% !important;
+    display:block;
+}
